@@ -1,0 +1,14 @@
+.eleone {
+    background-color: rgb(24, 23, 23);
+    color: whitesmoke;
+}
+
+.eletwo {
+    background-color: rgb(252, 252, 23);
+}
+
+.eleone,
+.eletwo {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
